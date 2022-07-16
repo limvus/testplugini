@@ -1,1 +1,1 @@
-{"version":1,"defects":[],"times":{"SampleTest::test_sample":0.001,"MyTest::test_reverse":0.002,"AppTest::test_reverse":0}}
+{"version":1,"defects":[],"times":{"SampleTest::test_sample":0,"MyTest::test_reverse":0.003,"AppTest::test_reverse":0}}
